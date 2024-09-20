@@ -3,3 +3,8 @@ __pycache__/
 *.py[cod]
 .env
 venv/
+*untitled*
+*Modeling_Invest_Days.ipynb
+*Modeling_Market.ipynb
+*Model_Tuning.ipynb
+*Untitled*
