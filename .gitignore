@@ -8,3 +8,6 @@ venv/
 *Modeling_Market.ipynb
 *Model_Tuning.ipynb
 *Untitled*
+*PAT.txt
+.ipynb_checkpoints/
+
